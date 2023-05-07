@@ -1,7 +1,6 @@
 # Progetto di reti logiche
 
-Anno Accademico:<br>
-2022-2023<br>
+Anno Accademico: 2022-2023<br>
 
 Autori:
 1. Piccinato Mattia @peetceenatoo

@@ -2,6 +2,5 @@
 
 Anno accademico 2022-2023<br>
 
-Autori:
-1. Piccinato Mattia [@peetceenatoo](https://github.com/peetceenatoo)
-2. Jacopo Piazzalunga [@Jacopopiazza](https://github.com/Jacopopiazza)
+Piccinato Mattia [@peetceenatoo](https://github.com/peetceenatoo)<br>
+Jacopo Piazzalunga [@Jacopopiazza](https://github.com/Jacopopiazza)

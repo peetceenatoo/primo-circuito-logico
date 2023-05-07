@@ -1,2 +1,4 @@
-# primo-circuito-logico
-Progetto di reti logiche, anno accademico 2022-2023
+# Progetto di reti logiche
+
+Anno Accademico: 2022-2023
+Autori: Piccinato Mattia e Jacopo Piazzalunga
